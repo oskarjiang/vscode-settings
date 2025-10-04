@@ -1,2 +1,3 @@
 # vscode-settings
-My personal VSCode settings
+## Windows path
+%APPDATA%\Code\User\
