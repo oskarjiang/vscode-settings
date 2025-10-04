@@ -1,19 +1,27 @@
 // Place your key bindings in this file to override the defaults
 [
-    {
-        "key": "ctrl+g ctrl+p",
-        "command": "git.push"
-    },
-    {
-        "key": "ctrl+g ctrl+f",
-        "command": "git.fetchAll"
-    },
-    {
-        "key": "ctrl+g ctrl+c",
-        "command": "git.checkout"
-    },
-    {
-        "key": "ctrl+g ctrl+m",
-        "command": "github.copilot.git.generateCommitMessage"
-    }
+  {
+    "key": "ctrl+g ctrl+p",
+    "command": "git.push"
+  },
+  {
+    "key": "ctrl+g ctrl+f",
+    "command": "git.fetchAll"
+  },
+  {
+    "key": "ctrl+g ctrl+c",
+    "command": "git.checkout"
+  },
+  {
+    "key": "ctrl+g ctrl+m",
+    "command": "github.copilot.git.generateCommitMessage"
+  },
+  {
+    "key": "ctrl+g ctrl+s",
+    "command": "git.sync"
+  },
+  {
+    "key": "ctrl+g ctrl+a",
+    "command": "git.commitAllNoVerify"
+  }
 ]
