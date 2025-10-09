@@ -5,7 +5,7 @@
     "command": "git.fetchAll"
   },
   {
-    "key": "ctrl+g ctrl+c",
+    "key": "ctrl+g ctrl+b",
     "command": "git.checkout"
   },
   {
@@ -13,7 +13,7 @@
     "command": "git.sync"
   },
   {
-    "key": "ctrl+g ctrl+a",
+    "key": "ctrl+g ctrl+c",
     "command": "git.commitAllNoVerify"
   },
   {
