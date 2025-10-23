@@ -25,22 +25,6 @@
     "command": "github.copilot.git.generateCommitMessage"
   },
   {
-    "key": "ctrl+c ctrl+f",
-    "command": "github.copilot.chat.fix"
-  },
-  {
-    "key": "ctrl+c ctrl+e",
-    "command": "github.copilot.chat.explain"
-  },
-  {
-    "key": "ctrl+c ctrl+t",
-    "command": "github.copilot.chat.generateTests"
-  },
-  {
-    "key": "ctrl+c ctrl+g",
-    "command": "github.copilot.chat.generate"
-  },
-  {
     "key": "ctrl+g ctrl+d",
     "command": "git.cleanAll"
   },
@@ -51,5 +35,9 @@
   {
     "key": "ctrl+g ctrl+l",
     "command": "git.stashApplyLatest"
+  },
+  {
+    "key": "ctrl+g ctrl+a",
+    "command": "git.commitAllAmendNoVerify"
   }
 ]
